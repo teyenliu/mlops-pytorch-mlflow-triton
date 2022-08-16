@@ -1,0 +1,11 @@
+blosc
+diskcache
+h5py
+jupyter
+matplotlib
+numpy
+Pillow
+scikit-image
+scipy
+SimpleITK
+torch
